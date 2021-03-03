@@ -44,7 +44,7 @@ export const Footer = () => {
             <div className='footer-images-container'>
                 <div className={`copyright f ${copyright()}`}>&copy;2021</div>
                 <a href='https://rs.school/react/'><img className='footer-rs-logo f' src={logo()} alt=""/></a>
-                <a href="https://github.com/Jears017"><img className='footer-gitHub-logo f' src={git()} alt=""/></a>
+                <a href="https://github.com/Jears017/react-game"><img className='footer-gitHub-logo f' src={git()} alt=""/></a>
             </div>
         </div>
     )

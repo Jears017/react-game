@@ -87,6 +87,14 @@
     transform: scale(1.2); /* Увеличиваем масштаб */
 }
 
+.in {
+    transition: 0.5s; /* Время эффекта */
+}
+
+.in:hover {
+    transform: scale(1.2); /* Увеличиваем масштаб */
+}
+
 .userStep_container {
     /*margin-right: 50px;*/
 }

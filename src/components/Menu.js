@@ -38,7 +38,7 @@ export const Menu = (props) => {
                         localStorage.score = 0
                     }} className='menu-item'>
 
-                        <div className='play_img'><NavLink to='/main'><img className='' src={play} alt=""/></NavLink>
+                        <div className='play_img in'><NavLink to='/main'><img className='' src={play} alt=""/></NavLink>
                         </div>
 
                     </div>
